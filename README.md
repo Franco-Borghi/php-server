@@ -33,6 +33,8 @@ A lightweight RESTful API built with pure PHP and PostgreSQL that fetches and st
 - Composer
 - [Optional] pgAdmin for managing the DB
 
+---
+
 ## 🌐 API Endpoints
 
 All responses are in JSON format. These endpoints are public and CORS-enabled for frontend integration.

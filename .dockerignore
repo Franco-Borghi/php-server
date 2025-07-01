@@ -1,0 +1,24 @@
+# Ignore Composer dependencies (will be installed inside Docker)
+vendor/
+
+# Ignore local environment and secrets
+.env
+.env.*.php
+env.php
+
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore logs
+*.log
+
+# Ignore frontend build artifacts or Node dependencies (if present)
+node_modules/
+dist/

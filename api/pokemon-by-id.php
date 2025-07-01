@@ -7,7 +7,7 @@ header('Content-Type: application/json');
 // Verificar si se pasó un ID
 if (!isset($_GET['id']) || !is_numeric($_GET['id'])) {
   http_response_code(400);
-  echo json_encode(['error' => 'ID inválido']);
+  echo json_encode(['error' => 'ID inválido'], JSON_UNESCAPED_UNICODE);
   exit;
 }
 
@@ -33,12 +33,12 @@ try {
 
   if (!$pokemon) {
     http_response_code(404);
-    echo json_encode(['error' => 'Pokémon no encontrado']);
+    echo json_encode(['error' => 'Pokémon no encontrado'], JSON_UNESCAPED_UNICODE);
     exit;
   }
 
   echo json_encode($pokemon);
 } catch (PDOException $e) {
   http_response_code(500);
-  echo json_encode(['error' => 'Error al obtener el Pokémon']);
+  echo json_encode(['error' => 'Error al obtener el Pokémon'], JSON_UNESCAPED_UNICODE);
 }

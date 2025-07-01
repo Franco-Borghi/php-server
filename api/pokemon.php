@@ -26,5 +26,5 @@ try {
   echo json_encode($pokemons);
 } catch (PDOException $e) {
   http_response_code(500);
-  echo json_encode(['error' => 'Error al obtener los Pokémon']);
+  echo json_encode(['error' => 'Error al obtener los Pokémon'], JSON_UNESCAPED_UNICODE);
 }

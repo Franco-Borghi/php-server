@@ -18,6 +18,6 @@ try {
   ]);
 } catch (PDOException $e) {
   http_response_code(500);
-  echo json_encode(['error' => 'Error de conexión a la base de datos']);
+  echo json_encode(['error' => 'Error de conexión a la base de datos'], JSON_UNESCAPED_UNICODE);
   exit;
 }

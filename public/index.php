@@ -15,11 +15,11 @@ if ($uri === '/api/pokemon' && $method === 'GET') {
 }
 
 // Ruta: GET /api/pokemon/{id}
-if (preg_match('#^/api/pokemon/(\d+)$#', $uri, $matches) && $method === 'GET') {
-  $_GET['id'] = $matches[1]; // Para usarlo desde pokemon-by-id.php
+if (preg_match('#^/api/pokemon/(.+)$#', $uri, $matches) && $method === 'GET') {
+  $_GET['id'] = $matches[1]; // podría ser válido o no
   require_once '../api/pokemon-by-id.php';
   exit;
 }
 
 // Ruta por defecto
-echo json_encode(['message' => 'Pokedex API running']);
+echo json_encode(['message' => 'Pokedex API running'], JSON_UNESCAPED_UNICODE);

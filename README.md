@@ -32,3 +32,23 @@ A lightweight RESTful API built with pure PHP and PostgreSQL that fetches and st
 - PostgreSQL (running locally or remote)
 - Composer
 - [Optional] pgAdmin for managing the DB
+
+## 🌐 API Endpoints
+
+All responses are in JSON format. These endpoints are public and CORS-enabled for frontend integration.
+
+### - List all Pokémon
+
+Method: GET
+
+URL: https://php-server-73s6.onrender.com/api/pokemon
+
+Description: Returns a list of the first 150 Pokémon including their types.
+
+### - Get a single Pokémon by ID
+
+Method: GET
+
+URL: https://php-server-73s6.onrender.com/api/pokemon/1
+
+Description: Returns detailed information about a specific Pokémon based on its ID.

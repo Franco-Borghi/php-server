@@ -6,11 +6,11 @@ A lightweight RESTful API built with pure PHP and PostgreSQL that fetches and st
 
 ## 🚀 Features
 
-- ✅ Automatic database schema creation (Pokémon, Types, and relations)
-- ✅ Initial seeding of first 150 Pokémon from PokéAPI
+- ✅ Automatic database schema creation
+- ✅ Initial seeding of first 20 items
 - ✅ RESTful endpoints:
-  - `GET /api/pokemon` — List all Pokémon
-  - `GET /api/pokemon/:id` — Get a single Pokémon by ID
+  - `GET /api/products` — List all products
+  - `POST /api/products` — Create new product
 - ✅ CORS support for frontend access
 - ✅ No frameworks required — pure PHP
 
@@ -22,7 +22,6 @@ A lightweight RESTful API built with pure PHP and PostgreSQL that fetches and st
 - **PostgreSQL**
 - **PDO** for DB interaction
 - **Composer** (autoloading)
-- **PokéAPI** as external data source
 
 ---
 
@@ -39,18 +38,18 @@ A lightweight RESTful API built with pure PHP and PostgreSQL that fetches and st
 
 All responses are in JSON format. These endpoints are public and CORS-enabled for frontend integration.
 
-### - List all Pokémon
+### - List all products
 
 Method: GET
 
-URL: https://php-server-73s6.onrender.com/api/pokemon
+URL: [https://php-server-73s6.onrender.com/api/products](https://php-server-73s6.onrender.com/api/products)
 
-Description: Returns a list of the first 150 Pokémon including their types.
+Description: Returns a list of the products.
 
-### - Get a single Pokémon by ID
+### - Post new product
 
-Method: GET
+Method: POST
 
-URL: https://php-server-73s6.onrender.com/api/pokemon/1
+URL: [https://php-server-73s6.onrender.com/api/products](https://php-server-73s6.onrender.com/api/products)
 
-Description: Returns detailed information about a specific Pokémon based on its ID.
+Description: Create a new product.

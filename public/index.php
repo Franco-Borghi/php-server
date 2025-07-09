@@ -8,18 +8,24 @@ $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $method = $_SERVER['REQUEST_METHOD'];
 $uri = rtrim($uri, '/');
 
-// Ruta: GET /api/pokemon
-if ($uri === '/api/pokemon' && $method === 'GET') {
-  require_once '../api/pokemon.php';
+// GET /api/products
+if ($uri === '/api/products' && $method === 'GET') {
+  require_once '../api/products.php';
   exit;
 }
 
-// Ruta: GET /api/pokemon/{id}
-if (preg_match('#^/api/pokemon/(.+)$#', $uri, $matches) && $method === 'GET') {
-  $_GET['id'] = $matches[1]; // podría ser válido o no
-  require_once '../api/pokemon-by-id.php';
+// GET /api/products/:id
+if (preg_match('#^/api/products/(\d+)$#', $uri, $matches) && $method === 'GET') {
+  $_GET['id'] = $matches[1];
+  require_once '../api/product-by-id.php';
   exit;
 }
 
-// Ruta por defecto
-echo json_encode(['message' => 'Pokedex API running'], JSON_UNESCAPED_UNICODE);
+// POST /api/products
+if ($uri === '/api/products' && $method === 'POST') {
+  require_once '../api/create-product.php';
+  exit;
+}
+
+// Fallback
+echo json_encode(['message' => 'API Productos funcionando'], JSON_UNESCAPED_UNICODE);

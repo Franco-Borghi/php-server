@@ -1,74 +1,105 @@
 <?php
 require_once 'db.php';
 
-// 1. Crear tablas si no existen
-$pdo->exec("
-  CREATE TABLE IF NOT EXISTS types (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(50) UNIQUE NOT NULL
-  );
+try {
+  // Verificar si la tabla existe
+  $result = $pdo->query("
+    SELECT EXISTS (
+      SELECT FROM information_schema.tables 
+      WHERE table_schema = 'public' AND table_name = 'products'
+    )
+  ");
+  $exists = $result->fetchColumn();
 
-  CREATE TABLE IF NOT EXISTS pokemon (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    sprite TEXT
-  );
-
-  CREATE TABLE IF NOT EXISTS pokemon_types (
-    pokemon_id INT REFERENCES pokemon(id),
-    type_id INT REFERENCES types(id),
-    PRIMARY KEY (pokemon_id, type_id)
-  );
-");
-
-// 2. Verificar si hay Pokémon ya cargados
-$stmt = $pdo->query("SELECT COUNT(*) FROM pokemon");
-$count = $stmt->fetchColumn();
-
-if ($count > 0) {
-  // Ya hay Pokémon en la base. No se importará nada.
-  return;
-}
-
-// 3. Si no hay datos, importar desde la PokéAPI
-function fetchPokemon($id) {
-  $url = "https://pokeapi.co/api/v2/pokemon/$id";
-  $json = file_get_contents($url);
-  return json_decode($json, true);
-}
-
-for ($i = 1; $i <= 150; $i++) {
-  echo "✅ Importando Pokémon #$i...\n";
-
-  $data = fetchPokemon($i);
-  $name = $data['name'];
-  $sprite = $data['sprites']['front_default'] ?? null;
-
-  // Insertar el Pokémon
-  $stmt = $pdo->prepare("INSERT INTO pokemon (id, name, sprite) VALUES (:id, :name, :sprite)");
-  $stmt->execute([
-    ':id' => $data['id'],
-    ':name' => $name,
-    ':sprite' => $sprite
-  ]);
-
-  // Insertar tipos y relaciones
-  foreach ($data['types'] as $typeEntry) {
-    $typeName = $typeEntry['type']['name'];
-
-    // Insertar tipo si no existe
-    $pdo->prepare("INSERT INTO types (name) VALUES (:name) ON CONFLICT (name) DO NOTHING")
-        ->execute([':name' => $typeName]);
-
-    // Obtener ID del tipo
-    $stmt = $pdo->prepare("SELECT id FROM types WHERE name = :name");
-    $stmt->execute([':name' => $typeName]);
-    $typeId = $stmt->fetchColumn();
-
-    // Insertar relación
-    $pdo->prepare("INSERT INTO pokemon_types (pokemon_id, type_id) VALUES (:pid, :tid) ON CONFLICT DO NOTHING")
-        ->execute([':pid' => $data['id'], ':tid' => $typeId]);
+  if (!$exists) {
+    $pdo->exec("
+      CREATE TABLE products (
+        id_items_showcase INT PRIMARY KEY,
+        id_showcase INT,
+        name_items_showcase VARCHAR(255) NOT NULL,
+        slug VARCHAR(255) NOT NULL,
+        status_items_showcase VARCHAR(20),
+        price_items_showcase NUMERIC,
+        original_price_items_showcase NUMERIC,
+        discount_items_showcase NUMERIC,
+        min_price_offeritems_showcase NUMERIC,
+        delivery_items_showcase VARCHAR(50),
+        height_items_showcase NUMERIC,
+        width_items_showcase NUMERIC,
+        length_items_showcase NUMERIC,
+        id_origin VARCHAR(50),
+        user_type_id VARCHAR(50),
+        fullname VARCHAR(255),
+        images_items_showcase TEXT,
+        image_crop JSONB,
+        additional_images_crop JSONB,
+        fav BOOLEAN
+      );
+    ");
   }
-}
 
-echo "🎉 Importación finalizada.\n";
+  // Verificar si hay datos
+  $stmt = $pdo->query("SELECT COUNT(*) FROM products");
+  $count = $stmt->fetchColumn();
+
+  if ($count > 0) {
+    return; // Ya hay datos, salir silenciosamente
+  }
+
+  // Leer archivo JSON
+  $dataFile = __DIR__ . '/data.json';
+  if (!file_exists($dataFile)) return;
+
+  $jsonData = file_get_contents($dataFile);
+  $items = json_decode($jsonData, true);
+
+  if (!is_array($items)) return;
+
+  // Insertar productos
+  $sql = "
+    INSERT INTO products (
+      id_items_showcase, id_showcase, name_items_showcase, slug, status_items_showcase,
+      price_items_showcase, original_price_items_showcase, discount_items_showcase, min_price_offeritems_showcase,
+      delivery_items_showcase, height_items_showcase, width_items_showcase, length_items_showcase,
+      id_origin, user_type_id, fullname, images_items_showcase, image_crop, additional_images_crop, fav
+    ) VALUES (
+      :id_items_showcase, :id_showcase, :name_items_showcase, :slug, :status_items_showcase,
+      :price_items_showcase, :original_price_items_showcase, :discount_items_showcase, :min_price_offeritems_showcase,
+      :delivery_items_showcase, :height_items_showcase, :width_items_showcase, :length_items_showcase,
+      :id_origin, :user_type_id, :fullname, :images_items_showcase, :image_crop, :additional_images_crop, :fav
+    )
+    ON CONFLICT (id_items_showcase) DO NOTHING;
+  ";
+
+  $stmt = $pdo->prepare($sql);
+
+  foreach ($items as $item) {
+    $stmt->execute([
+      ':id_items_showcase' => $item['Id_items_showcase'] ?? null,
+      ':id_showcase' => $item['Id_showcase'] ?? null,
+      ':name_items_showcase' => $item['Name_items_showcase'] ?? null,
+      ':slug' => $item['slug'] ?? null,
+      ':status_items_showcase' => $item['Status_items_showcase'] ?? null,
+      ':price_items_showcase' => $item['Price_items_showcase'] ?? null,
+      ':original_price_items_showcase' => $item['Original_price_items_showcase'] ?? null,
+      ':discount_items_showcase' => $item['Discount_items_showcase'] ?? null,
+      ':min_price_offeritems_showcase' => $item['Min_price_offeritems_showcase'] ?? null,
+      ':delivery_items_showcase' => $item['Delivery_items_showcase'] ?? null,
+      ':height_items_showcase' => $item['Height_items_showcase'] ?? null,
+      ':width_items_showcase' => $item['Width_items_showcase'] ?? null,
+      ':length_items_showcase' => $item['Length_items_showcase'] ?? null,
+      ':id_origin' => $item['Id_origin'] ?? null,
+      ':user_type_id' => $item['user_type_id'] ?? null,
+      ':fullname' => $item['fullname'] ?? null,
+      ':images_items_showcase' => $item['Images_items_showcase'] ?? null,
+      ':image_crop' => isset($item['Image_crop_items_showcase']) ? json_encode($item['Image_crop_items_showcase']) : null,
+      // ':additional_images_crop' => isset($item['Additional_Images_crop_items_showcase']) ? json_encode($item['Additional_Images_crop_items_showcase']) : null,
+      ':additional_images_crop' => isset($item['Additional_Images_crop_items_showcase']) 
+    ? json_encode($item['Additional_Images_crop_items_showcase'], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) 
+    : null,
+      ':fav' => isset($item['fav']) ? (bool)$item['fav'] : null,
+    ]);
+  }
+} catch (Exception $e) {
+  // No hacer nada (modo silencioso), o loguearlo si querés
+}

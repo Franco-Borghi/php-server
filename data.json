@@ -1,0 +1,1170 @@
+[
+  {
+    "slug": "/productos/13699",
+    "Id_items_showcase": 14699,
+    "Id_showcase": 5745,
+    "Id_origin": "1",
+    "Name_items_showcase": "Mesa comedor extensible",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 78,
+    "Width_items_showcase": 120,
+    "Length_items_showcase": 160,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/20250615072115_upload685d818b9ed0a8ec25aab586b951c712afc35adcc3505.png",
+    "Price_items_showcase": 1200,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615072115_upload685d818b9ed0a8ec25aab586b951c712afc35adcc3505_resize_1200x600.png",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615072115_upload685d818b9ed0a8ec25aab586b951c712afc35adcc3505_resize_720x460.png",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615072115_upload685d818b9ed0a8ec25aab586b951c712afc35adcc3505_resize_1920x1080.png",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615072115_upload685d818b9ed0a8ec25aab586b951c712afc35adcc3505_resize_170x100.png"
+    },
+    "Discount_items_showcase": 988,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250608071008_upload685d7ef08cbec5a13adf224d0c7c57237d434d9dd22b0_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250608071008_upload685d7ef08cbec5a13adf224d0c7c57237d434d9dd22b0_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250608071008_upload685d7ef08cbec5a13adf224d0c7c57237d434d9dd22b0_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250608071008_upload685d7ef08cbec5a13adf224d0c7c57237d434d9dd22b0_resize_170x100.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071716_upload685d809cbb82552563fe988c611b102efb7ca52722c7a_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071716_upload685d809cbb82552563fe988c611b102efb7ca52722c7a_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071716_upload685d809cbb82552563fe988c611b102efb7ca52722c7a_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071716_upload685d809cbb82552563fe988c611b102efb7ca52722c7a_resize_170x100.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250646071746_upload685d80ba97bad0643700eeff50cc0bcdfeda6de057c88_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250646071746_upload685d80ba97bad0643700eeff50cc0bcdfeda6de057c88_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250646071746_upload685d80ba97bad0643700eeff50cc0bcdfeda6de057c88_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250646071746_upload685d80ba97bad0643700eeff50cc0bcdfeda6de057c88_resize_170x100.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250655071755_upload685d80c3a2fead069375c93200b90cc080e4ad45695e9_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250655071755_upload685d80c3a2fead069375c93200b90cc080e4ad45695e9_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250655071755_upload685d80c3a2fead069375c93200b90cc080e4ad45695e9_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250655071755_upload685d80c3a2fead069375c93200b90cc080e4ad45695e9_resize_170x100.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071816_upload685d80d8e302587011dfbf77da4cfcf3c7bb01965fd4b_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071816_upload685d80d8e302587011dfbf77da4cfcf3c7bb01965fd4b_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071816_upload685d80d8e302587011dfbf77da4cfcf3c7bb01965fd4b_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250616071816_upload685d80d8e302587011dfbf77da4cfcf3c7bb01965fd4b_resize_170x100.jpg"
+      }
+    },
+    "Min_price_offeritems_showcase": 0,
+    "Delivery_items_showcase": "1",
+    "fullname": "PREMIER STYLE MOBILAIRIO",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13701",
+    "Id_items_showcase": 14701,
+    "Id_showcase": 5747,
+    "Id_origin": "1",
+    "Name_items_showcase": "Mesa comedor extensible",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 78,
+    "Width_items_showcase": 120,
+    "Length_items_showcase": 160,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/20250620073620_upload685d8514a7f7d8cff9d3fa62b63ae529dce256df378d0.png",
+    "Price_items_showcase": 1100,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620073620_upload685d8514a7f7d8cff9d3fa62b63ae529dce256df378d0_resize_1200x600.png",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620073620_upload685d8514a7f7d8cff9d3fa62b63ae529dce256df378d0_resize_720x460.png",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620073620_upload685d8514a7f7d8cff9d3fa62b63ae529dce256df378d0_resize_1920x1080.png",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620073620_upload685d8514a7f7d8cff9d3fa62b63ae529dce256df378d0_resize_170x100.png"
+    },
+    "Discount_items_showcase": 930,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250617073017_upload685d83a9cd855e5d91218c115fdfd933d691f83655e73_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250617073017_upload685d83a9cd855e5d91218c115fdfd933d691f83655e73_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250617073017_upload685d83a9cd855e5d91218c115fdfd933d691f83655e73_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250617073017_upload685d83a9cd855e5d91218c115fdfd933d691f83655e73_resize_170x100.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250625073025_upload685d83b1d2b930528e0a7d2bb2fd2fc21f183d008ae98_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250625073025_upload685d83b1d2b930528e0a7d2bb2fd2fc21f183d008ae98_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250625073025_upload685d83b1d2b930528e0a7d2bb2fd2fc21f183d008ae98_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250625073025_upload685d83b1d2b930528e0a7d2bb2fd2fc21f183d008ae98_resize_170x100.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250644073044_upload685d83c43acaa8192339e5b02db768174ab7d7f9eb667_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250644073044_upload685d83c43acaa8192339e5b02db768174ab7d7f9eb667_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250644073044_upload685d83c43acaa8192339e5b02db768174ab7d7f9eb667_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250644073044_upload685d83c43acaa8192339e5b02db768174ab7d7f9eb667_resize_170x100.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250601073101_upload685d83d56ddd14eaf09d5e828bdfed0ec2a93480c123d_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250601073101_upload685d83d56ddd14eaf09d5e828bdfed0ec2a93480c123d_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250601073101_upload685d83d56ddd14eaf09d5e828bdfed0ec2a93480c123d_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250601073101_upload685d83d56ddd14eaf09d5e828bdfed0ec2a93480c123d_resize_170x100.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250631073331_upload685d846b6b9b11bf14dd09e5880baa5affa42d3f89ca6_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250631073331_upload685d846b6b9b11bf14dd09e5880baa5affa42d3f89ca6_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250631073331_upload685d846b6b9b11bf14dd09e5880baa5affa42d3f89ca6_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250631073331_upload685d846b6b9b11bf14dd09e5880baa5affa42d3f89ca6_resize_170x100.jpg"
+      }
+    },
+    "Min_price_offeritems_showcase": 0,
+    "Delivery_items_showcase": "1",
+    "fullname": "PREMIER STYLE MOBILAIRIO",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13702",
+    "Id_items_showcase": 14702,
+    "Id_showcase": 5748,
+    "Id_origin": "1",
+    "Name_items_showcase": "Mesa redonda",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 78,
+    "Width_items_showcase": 120,
+    "Length_items_showcase": 120,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/20250615110915_upload685e5fbb00c111cec02ab3d1fc864eb58876e90e1a024.png",
+    "Price_items_showcase": 1250,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615110915_upload685e5fbb00c111cec02ab3d1fc864eb58876e90e1a024_resize_1200x600.png",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615110915_upload685e5fbb00c111cec02ab3d1fc864eb58876e90e1a024_resize_720x460.png",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615110915_upload685e5fbb00c111cec02ab3d1fc864eb58876e90e1a024_resize_1920x1080.png",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250615110915_upload685e5fbb00c111cec02ab3d1fc864eb58876e90e1a024_resize_170x100.png"
+    },
+    "Discount_items_showcase": 1075,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250619074219_upload685d867bd89a093499da1c972bd8c668095885e0ab83a_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250619074219_upload685d867bd89a093499da1c972bd8c668095885e0ab83a_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250619074219_upload685d867bd89a093499da1c972bd8c668095885e0ab83a_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250619074219_upload685d867bd89a093499da1c972bd8c668095885e0ab83a_resize_170x100.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250634074234_upload685d868a49ac76c6867fe700d475eeb40f8c12c18a4a6_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250634074234_upload685d868a49ac76c6867fe700d475eeb40f8c12c18a4a6_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250634074234_upload685d868a49ac76c6867fe700d475eeb40f8c12c18a4a6_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250634074234_upload685d868a49ac76c6867fe700d475eeb40f8c12c18a4a6_resize_170x100.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250656074256_upload685d86a0bf88738ef86647635bdb2e994ff5be27d0dbe_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250656074256_upload685d86a0bf88738ef86647635bdb2e994ff5be27d0dbe_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250656074256_upload685d86a0bf88738ef86647635bdb2e994ff5be27d0dbe_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250656074256_upload685d86a0bf88738ef86647635bdb2e994ff5be27d0dbe_resize_170x100.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250613074313_upload685d86b12c730512c45472755a3f8b3e6919070f7f41b_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250613074313_upload685d86b12c730512c45472755a3f8b3e6919070f7f41b_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250613074313_upload685d86b12c730512c45472755a3f8b3e6919070f7f41b_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250613074313_upload685d86b12c730512c45472755a3f8b3e6919070f7f41b_resize_170x100.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250621074321_upload685d86b99e2b00df9c939d9558be29d0e0b9ad55980a3_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250621074321_upload685d86b99e2b00df9c939d9558be29d0e0b9ad55980a3_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250621074321_upload685d86b99e2b00df9c939d9558be29d0e0b9ad55980a3_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250621074321_upload685d86b99e2b00df9c939d9558be29d0e0b9ad55980a3_resize_170x100.jpg"
+      }
+    },
+    "Min_price_offeritems_showcase": 0,
+    "Delivery_items_showcase": "1",
+    "fullname": "PREMIER STYLE MOBILAIRIO",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13639",
+    "Id_items_showcase": 14639,
+    "Id_showcase": 5733,
+    "Id_origin": "5",
+    "Name_items_showcase": "Mesa oficina",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 75,
+    "Width_items_showcase": 280,
+    "Length_items_showcase": 160,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/20250620121220_upload684fee04bc41db17a0acb92bca1d504668f1a337e9d02.jpg",
+    "Price_items_showcase": 950,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620121220_upload684fee04bc41db17a0acb92bca1d504668f1a337e9d02_resize_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620121220_upload684fee04bc41db17a0acb92bca1d504668f1a337e9d02_resize_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620121220_upload684fee04bc41db17a0acb92bca1d504668f1a337e9d02_resize_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250620121220_upload684fee04bc41db17a0acb92bca1d504668f1a337e9d02_resize_170x100.jpg"
+    },
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250628121228_upload684fee0cc7fd32c8eba79144540c65304fe328ec05bd7_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250628121228_upload684fee0cc7fd32c8eba79144540c65304fe328ec05bd7_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250628121228_upload684fee0cc7fd32c8eba79144540c65304fe328ec05bd7_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250628121228_upload684fee0cc7fd32c8eba79144540c65304fe328ec05bd7_resize_170x100.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250637121237_upload684fee153be6853462abe5bcf5aa11066dab634287a81_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250637121237_upload684fee153be6853462abe5bcf5aa11066dab634287a81_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250637121237_upload684fee153be6853462abe5bcf5aa11066dab634287a81_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250637121237_upload684fee153be6853462abe5bcf5aa11066dab634287a81_resize_170x100.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250645121245_upload684fee1dc19c4c25edd497323d16a6862f1bdcb4f799a_resize_1200x600.png",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250645121245_upload684fee1dc19c4c25edd497323d16a6862f1bdcb4f799a_resize_720x460.png",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250645121245_upload684fee1dc19c4c25edd497323d16a6862f1bdcb4f799a_resize_1920x1080.png",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250645121245_upload684fee1dc19c4c25edd497323d16a6862f1bdcb4f799a_resize_170x100.png"
+      }
+    },
+    "Min_price_offeritems_showcase": 950,
+    "Delivery_items_showcase": "0",
+    "fullname": "Desing&Interiors Home S.L.",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13672",
+    "Id_items_showcase": 13672,
+    "Id_showcase": 5681,
+    "Id_origin": "5",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 55,
+    "Width_items_showcase": 40,
+    "Length_items_showcase": 55,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/20250548123648_upload683838c06af33c4a7b55666ffa6ecd6ef741621d01865.jpg",
+    "Price_items_showcase": 199,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250548123648_upload683838c06af33c4a7b55666ffa6ecd6ef741621d01865_resize_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250548123648_upload683838c06af33c4a7b55666ffa6ecd6ef741621d01865_resize_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250548123648_upload683838c06af33c4a7b55666ffa6ecd6ef741621d01865_resize_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250548123648_upload683838c06af33c4a7b55666ffa6ecd6ef741621d01865_resize_170x100.jpg"
+    },
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250554123654_upload683838c6b83a631cc3bc59fb109880be5b35bfb3c33eb_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250554123654_upload683838c6b83a631cc3bc59fb109880be5b35bfb3c33eb_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250554123654_upload683838c6b83a631cc3bc59fb109880be5b35bfb3c33eb_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250554123654_upload683838c6b83a631cc3bc59fb109880be5b35bfb3c33eb_resize_170x100.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250500123700_upload683838cc154dee1653aa02d2f9a9842ca78de1e0f1765_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250500123700_upload683838cc154dee1653aa02d2f9a9842ca78de1e0f1765_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250500123700_upload683838cc154dee1653aa02d2f9a9842ca78de1e0f1765_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250500123700_upload683838cc154dee1653aa02d2f9a9842ca78de1e0f1765_resize_170x100.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250504123704_upload683838d04292efd75530cb586179411c8c81f47d77a3b_resize_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250504123704_upload683838d04292efd75530cb586179411c8c81f47d77a3b_resize_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250504123704_upload683838d04292efd75530cb586179411c8c81f47d77a3b_resize_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/item_showcase/20250504123704_upload683838d04292efd75530cb586179411c8c81f47d77a3b_resize_170x100.jpg"
+      }
+    },
+    "Delivery_items_showcase": "0",
+    "fullname": "Vical Outlet",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13426",
+    "Id_items_showcase": 13426,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 90,
+    "Width_items_showcase": 105,
+    "Length_items_showcase": 50,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_0_250x250.jpg",
+    "Price_items_showcase": 264.87,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 259.87,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13426_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13425",
+    "Id_items_showcase": 13425,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 80,
+    "Width_items_showcase": 120,
+    "Length_items_showcase": 40,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_0_250x250.jpg",
+    "Price_items_showcase": 251.56,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 246.56,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13425_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13409",
+    "Id_items_showcase": 13409,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa de reuniones",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 33,
+    "Width_items_showcase": 88,
+    "Length_items_showcase": 28,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_0_250x250.jpg",
+    "Price_items_showcase": 3256.96,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 3251.96,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13409_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13408",
+    "Id_items_showcase": 13408,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa redonda",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 74,
+    "Width_items_showcase": 280,
+    "Length_items_showcase": 160,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_0_250x250.jpg",
+    "Price_items_showcase": 264.87,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 259.87,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13408_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13400",
+    "Id_items_showcase": 13400,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa de centro",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 39,
+    "Width_items_showcase": 65,
+    "Length_items_showcase": 65,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_0_250x250.jpg",
+    "Price_items_showcase": 131.77,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 126.77,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13400_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13401",
+    "Id_items_showcase": 13401,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 72.5,
+    "Width_items_showcase": 142,
+    "Length_items_showcase": 78.5,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_0_250x250.jpg",
+    "Price_items_showcase": 185.01,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 180.01,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13401_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13402",
+    "Id_items_showcase": 13402,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 45,
+    "Width_items_showcase": 100,
+    "Length_items_showcase": 100,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_0_250x250.jpg",
+    "Price_items_showcase": 145.08,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 140.08,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13402_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13430",
+    "Id_items_showcase": 13430,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 65,
+    "Width_items_showcase": 80,
+    "Length_items_showcase": 80,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_0_250x250.jpg",
+    "Price_items_showcase": 211.63,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 206.63,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13430_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13429",
+    "Id_items_showcase": 13429,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 73,
+    "Width_items_showcase": 80,
+    "Length_items_showcase": 80,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_0_250x250.jpg",
+    "Price_items_showcase": 211.63,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 206.63,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13429_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13407",
+    "Id_items_showcase": 13407,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa escritorio",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 74.5,
+    "Width_items_showcase": 160,
+    "Length_items_showcase": 80,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_0_250x250.jpg",
+    "Price_items_showcase": 264.87,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 259.87,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13407_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13406",
+    "Id_items_showcase": 13406,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa escritorio",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 74,
+    "Width_items_showcase": 160,
+    "Length_items_showcase": 80,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_0_250x250.jpg",
+    "Price_items_showcase": 251.56,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 246.56,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13406_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13405",
+    "Id_items_showcase": 13405,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa escritorio",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 73,
+    "Width_items_showcase": 160,
+    "Length_items_showcase": 80,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_0_250x250.jpg",
+    "Price_items_showcase": 264.87,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 259.87,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13405_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13404",
+    "Id_items_showcase": 13404,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa de centro",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 36,
+    "Width_items_showcase": 70,
+    "Length_items_showcase": 70,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_0_250x250.jpg",
+    "Price_items_showcase": 264.87,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 259.87,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13404_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13403",
+    "Id_items_showcase": 13403,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa de centro",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 45,
+    "Width_items_showcase": 100,
+    "Length_items_showcase": 100,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_0_250x250.jpg",
+    "Price_items_showcase": 331.42,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 326.42,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13403_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  },
+  {
+    "slug": "/productos/13428",
+    "Id_items_showcase": 13428,
+    "Id_showcase": 5626,
+    "Id_origin": "3",
+    "Name_items_showcase": "Mesa auxiliar",
+    "Status_items_showcase": "available",
+    "Height_items_showcase": 50,
+    "Width_items_showcase": 140,
+    "Length_items_showcase": 70,
+    "Images_items_showcase": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_0_250x250.jpg",
+    "Price_items_showcase": 171.7,
+    "Image_crop_items_showcase": {
+      "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_0_1200x600.jpg",
+      "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_0_720x460.jpg",
+      "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_0_1920x1080.jpg",
+      "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_0_170x100.jpg",
+      "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_0_250x250.jpg"
+    },
+    "Discount_items_showcase": 166.7,
+    "Additional_Images_crop_items_showcase": {
+      "1": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_1_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_1_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_1_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_1_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_1_250x250.jpg"
+      },
+      "2": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_2_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_2_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_2_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_2_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_2_250x250.jpg"
+      },
+      "3": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_3_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_3_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_3_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_3_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_3_250x250.jpg"
+      },
+      "4": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_4_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_4_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_4_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_4_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_4_250x250.jpg"
+      },
+      "5": {
+        "file": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_5_1200x600.jpg",
+        "list": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_5_720x460.jpg",
+        "zoom": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_5_1920x1080.jpg",
+        "thumb": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_resize_5_170x100.jpg",
+        "original": "https://storage.googleapis.com/cloudframework.io/documents/files/alaskadeco/alaskadeco_uploads/alaskadeco_documents/showcase/5626/13428_original_5_250x250.jpg"
+      }
+    },
+    "Delivery_items_showcase": "1",
+    "fullname": "Montiel",
+    "user_type_id": "2"
+  }
+]
